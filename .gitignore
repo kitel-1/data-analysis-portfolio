@@ -1,0 +1,15 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+venv/
+env/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.log
+
+# Excel临时文件
+~$*.xlsx
